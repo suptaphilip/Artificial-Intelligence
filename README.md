@@ -2,6 +2,8 @@
 
 ## CSE 417 and CSE 418 Artificial Intelligence
 
+> Assignmet 1 is uploaded. Due date: 24.12.2018
+
 > The topics we have covered still now
 
 
