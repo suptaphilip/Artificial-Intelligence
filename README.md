@@ -9,4 +9,4 @@
 
 > All the code(using python, prolog) and materials(notes, slide, handouts) are given topics, you will find in the link.
 
-[Github Repo](https://github.com/suptaphilip/CityUniversity-AI)
+[Github Repo](https://suptaphilip.github.io/Artificial-Intelligence/)
