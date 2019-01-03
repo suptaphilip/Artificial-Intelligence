@@ -1,11 +1,24 @@
 # City university
 
+
 #### All the materials(notes, slide, handouts, books, code) and announcement, you will find in the course home page.
+#### Announcement
+
+```diff
++ Quiz 1 Date:
++ Quiz 2 Date:
++ Quiz 3 Date:
+- Project Proposal and Presentation Date:
+- Project Final Report and Presentation Date:
+- Lab MidTerm Date:
+- Lab FinalTerm Date:
+```
+
 
 
 ## CSE 417 Artificial Intelligence
 
-[Course outline]()
+[Course outline](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/OBC%20CSE%20417%20AI.pdf)
 
 ### Lecture Sildes
 
@@ -26,7 +39,9 @@
 > [Text Book](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/Book.pdf) 
 
 
-## CSE 418 Artificial Intelligence Lab
+## CSE 418 Artificial Intelligence Laboratory
+
+[Course outline](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Lab/OBC%20CSE%20418%20AI%20Lab.pdf)
 
 ### Prolog Tutorials
 
