@@ -6,12 +6,18 @@
 
 ```diff
 + Quiz 1 Date:
-+ Quiz 2 Date:
-+ Quiz 3 Date:
+
+
+* Assignment 1 Submission Date: 24.12.2018
+* Assignment 2 Submission Date: 10.01.2019
+
 - Project Proposal and Presentation Date:
 - Project Final Report and Presentation Date:
-- Lab MidTerm Date:
-- Lab FinalTerm Date:
+
+* Lab MidTerm Date:
+* Lab FinalTerm Date:
+
+- Lab Assignment Date: 
 ```
 
 
