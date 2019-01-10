@@ -26,7 +26,7 @@
 [Course outline](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/OBC%20CSE%20417%20AI.pdf)
 
 ### Quiz 1: Syllabus
-[Intelligent Agents, Uninformed search]()
+[Intelligent Agents, Uninformed search](https://github.com/suptaphilip/Artificial-Intelligence/blob/AI-Theory/Quiz%201%20Syllabus.md)
 
 
 
