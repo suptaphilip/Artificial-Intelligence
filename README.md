@@ -6,7 +6,7 @@
 #### Announcement
 
 ```diff
-+ Quiz 1 Date: 14.01.2019
++ Quiz 1 Date: 14.01.2019 
 + Quiz 2 Date: 21.01.2019
 
 * Assignment 1 Submission Date: 24.12.2018
@@ -26,6 +26,8 @@
 ## CSE 417 Artificial Intelligence
 
 [Course outline](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/OBC%20CSE%20417%20AI.pdf)
+
+### [Quiz Result](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/Grade%20AI.pdf)
 
 ### Quiz 1: Syllabus
 [Intelligent Agents, Uninformed search](https://github.com/suptaphilip/Artificial-Intelligence/blob/AI-Theory/Quiz%201%20Syllabus.md)
