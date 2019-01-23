@@ -7,6 +7,7 @@
 
 ```diff
 + Quiz 1 Date: 14.01.2019
++ Quiz 2 Date: 21.01.2019
 
 * Assignment 1 Submission Date: 24.12.2018
 * Assignment 2 Submission Date: 10.01.2019
@@ -14,7 +15,7 @@
 - Project Proposal and Presentation Date:
 - Project Final Report and Presentation Date:
 
-* Lab MidTerm Date:
+* Lab MidTerm Date: 23.01.2019
 * Lab FinalTerm Date:
 
 - Lab Assignment Date: 14.01.2019
@@ -29,6 +30,8 @@
 ### Quiz 1: Syllabus
 [Intelligent Agents, Uninformed search](https://github.com/suptaphilip/Artificial-Intelligence/blob/AI-Theory/Quiz%201%20Syllabus.md)
 
+### Quiz 2: Syllabus
+[Informed search](https://github.com/suptaphilip/Artificial-Intelligence/blob/AI-Theory/Quiz%202.md)
 
 
 ### Lecture Sildes
