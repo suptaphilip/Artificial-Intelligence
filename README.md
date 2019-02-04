@@ -95,9 +95,14 @@
 
 > [Lab 3 and Assignent 1](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Lab/Lab%203.pdf)
 
-### Books
+### Python Lab
+
+> [Python Assignment](https://github.com/suptaphilip/Artificial-Intelligence/blob/AI-Lab/Python%20Lab.pdf)
+
+### Prolog Books
 > [Prolog Book](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Lab/Prolog%20textbook.pdf)
 
-
+### Python Documentation
+>[Python](https://github.com/suptaphilip/Artificial-Intelligence/blob/AI-Lab/Object-OrientedProgramminginPython.pdf)
 
 
