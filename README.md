@@ -18,7 +18,8 @@
 * Lab MidTerm Date: 23.01.2019
 * Lab FinalTerm Date:
 
-- Lab Assignment Date: 14.01.2019
+- Lab Assignment 1 Date: 14.01.2019
+- Lab Assignment 2 Date: 18.02.2019
 ```
 
 
@@ -88,6 +89,12 @@
 ## CSE 418 Artificial Intelligence Laboratory
 
 [Course outline](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Lab/OBC%20CSE%20418%20AI%20Lab.pdf)
+
+### Assignment
+> [Assignent 1](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Lab/Lab%203.pdf)
+
+
+> [Assignmet 2](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Lab/Assignment%202%20Lab.pdf) is uploaded. Due date: 18.02.2018
 
 ### Prolog Tutorials
 
