@@ -12,11 +12,11 @@
 * Assignment 1 Submission Date: 24.12.2018
 * Assignment 2 Submission Date: 10.01.2019
 
-- Project Proposal and Presentation Date:
-- Project Final Report and Presentation Date:
+
+- Project Final Report and Presentation Date: 13.03.2019
 
 * Lab MidTerm Date: 23.01.2019
-* Lab FinalTerm Date:
+* Lab FinalTerm Date: 11.03.2019
 
 - Lab Assignment 1 Date: 14.01.2019
 - Lab Assignment 2 Date: 18.02.2019
