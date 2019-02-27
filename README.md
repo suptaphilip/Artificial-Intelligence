@@ -53,11 +53,11 @@
   
   >[Game playing](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/chapter06.pdf)
   
-  > [Logical agents]()
+  > [Logical agents](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/chapter07.pdf)
   
-  >[First-order logic]()
+  >[First-order logic](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/chapter08.pdf)
   
-  >[Inference in first-order logic]()
+  >[Inference in first-order logic](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/chapter09.pdf)
 
 ### Assignment
 > [Assignmet 1](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/Assignment%201.pdf) is uploaded. Due date: 24.12.2018
