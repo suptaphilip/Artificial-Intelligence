@@ -87,8 +87,9 @@
 
 > [A* Search](https://www.youtube.com/watch?v=iTJvWfmp1vw)
 
-> [Minimax and Alpha-Beta Pruning](https://www.youtube.com/watch?v=J1GoI5WHBto)
+> [Minimax and Alpha-Beta Pruning 1](https://www.youtube.com/watch?v=J1GoI5WHBto)
 
+> [Minimax and Alpha-Beta Pruning 2](https://www.youtube.com/watch?v=zp3VMe0Jpf8)
 
 ### Sample Questions
 >[AI_Mid_Fall17](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/AI_Mid_Fall17.pdf)
