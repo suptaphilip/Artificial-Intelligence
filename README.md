@@ -50,6 +50,14 @@
   > [Informed search]()
   
   > [Constraint Satisfaction Problems](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/chapter05.pdf)
+  
+  >[Game playing](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/chapter06.pdf)
+  
+  > [Logical agents]()
+  
+  >[First-order logic]()
+  
+  >[Inference in first-order logic]()
 
 ### Assignment
 > [Assignmet 1](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/Assignment%201.pdf) is uploaded. Due date: 24.12.2018
