@@ -64,6 +64,8 @@
 
 > [Task Environment- PEAS example, Environment types](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/AgentsAndEnvironment.pdf)
 
+>[Minimax with Alpha Beta Pruning](http://web.cs.ucla.edu/~rosen/161/notes/alphabeta.html)
+
 ### Video Tutorials
 > [Breadth First Search part 1](https://www.youtube.com/watch?v=1wu2sojwsyQ)
 
