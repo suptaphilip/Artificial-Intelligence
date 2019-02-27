@@ -127,7 +127,13 @@
 
 ### Python Lab
 
+>[OOP Employee]()
+
+>[OOP Student]()
+
 > [Python Assignment](https://github.com/suptaphilip/Artificial-Intelligence/blob/AI-Lab/Python%20Lab.pdf)
+
+>[Python- Linear Regression]()
 
 ### Prolog Books
 > [Prolog Book](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Lab/Prolog%20textbook.pdf)
