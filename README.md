@@ -78,10 +78,18 @@
 > [A* Search](https://www.youtube.com/watch?v=6TsL96NAZCo)
 
 > [BFS](https://www.youtube.com/watch?v=aJnDZscuoj8)
+
 > [DFS](https://www.youtube.com/watch?v=fKcXyDMHxRw)
+
 > [UCS](https://www.youtube.com/watch?v=-FY7t2kqWX4)
+
 > [Greedy Best First Search](https://www.youtube.com/watch?v=HMAHrQHmrUQ)
+
 > [A* Search](https://www.youtube.com/watch?v=iTJvWfmp1vw)
+
+> [Minimax and Alpha-Beta Pruning](https://www.youtube.com/watch?v=J1GoI5WHBto)
+
+
 ### Sample Questions
 >[AI_Mid_Fall17](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/AI_Mid_Fall17.pdf)
 
