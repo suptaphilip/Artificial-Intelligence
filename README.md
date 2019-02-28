@@ -106,6 +106,10 @@
 
 >[AI_Mid_Spring18](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/AI_Mid_Spring18.pdf)
 
+>[Final_Ques_AI Fall17](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/Final_Ques_AI%20Fall17.pdf)
+
+>[Final_Ques_AI Spring18](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/Final_Ques_AI%20Spring18%20.pdf)
+
 
 ## CSE 418 Artificial Intelligence Laboratory
 
