@@ -131,13 +131,17 @@
 
 ### Python Lab
 
->[OOP Employee]()
+>[Python Hello World](https://github.com/suptaphilip/Artificial-Intelligence/blob/AI-Lab/python%20basic.ipynb)
 
->[OOP Student]()
+>[OOP Employee](https://github.com/suptaphilip/Artificial-Intelligence/blob/AI-Lab/OOP%20Employee.ipynb)
+
+>[OOP Student](https://github.com/suptaphilip/Artificial-Intelligence/blob/AI-Lab/OOP%20Student.ipynb)
+
+>[OOP Product](https://github.com/suptaphilip/Artificial-Intelligence/blob/AI-Lab/Product%20Class.ipynb)
 
 > [Python Assignment](https://github.com/suptaphilip/Artificial-Intelligence/blob/AI-Lab/Python%20Lab.pdf)
 
->[Python- Linear Regression]()
+>[Python- Linear Regression](https://github.com/suptaphilip/Artificial-Intelligence/blob/AI-Lab/Linear%20Regression.ipynb)
 
 ### Prolog Books
 > [Prolog Book](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Lab/Prolog%20textbook.pdf)
