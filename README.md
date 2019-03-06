@@ -58,6 +58,8 @@
   >[First-order logic](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/chapter08.pdf)
   
   >[Inference in first-order logic](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/chapter09.pdf)
+  
+  >[Edx AI Logical Agents](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/Edx%20Logical%20Agents.pdf)
 
 ### Assignment
 > [Assignmet 1](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/Assignment%201.pdf) is uploaded. Due date: 24.12.2018
@@ -100,6 +102,8 @@
 > [Minimax and Alpha-Beta Pruning 1](https://www.youtube.com/watch?v=J1GoI5WHBto)
 
 > [Minimax and Alpha-Beta Pruning 2](https://www.youtube.com/watch?v=zp3VMe0Jpf8)
+
+>[Edx AI Logical Agent](https://www.youtube.com/playlist?list=PLsKO0VhT8TXoermsACYXjKw2_xYOts7jL)
 
 ### Sample Questions
 >[AI_Mid_Fall17](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/AI_Mid_Fall17.pdf)
